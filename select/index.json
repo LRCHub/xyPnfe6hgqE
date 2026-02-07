@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ちょーぜつ♡LOVE",
+  "base_artist": "キミと永遠に",
+  "createdAt": "2026-02-07T06:55:39.788415Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ちょーぜつ♡LOVE",
+      "artist": "キミと永遠に",
+      "has_synced": false,
+      "path": "select/pl_01_ちょーぜつ♡LOVE_キミと永遠に.txt"
+    }
+  ]
+}
